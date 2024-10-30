@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='image_subplots',
+    name='helper_functions',
     version='0.1',
     description='utility function',
     author='Atharv Panditrao',
