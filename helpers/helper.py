@@ -1,4 +1,4 @@
-from matplotlib.pyplot import plt
+import matplotlib.pyplot as plt
 # Function to add an image to a subplot with proper scaling
 def add_subplot(position, img, title):
     ax = plt.subplot(1, 4, position)
